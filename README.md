@@ -1,4 +1,3 @@
-````md
 # Databases
 
 Exercises and practical activities developed for the Databases course at Inatel.
@@ -26,13 +25,10 @@ databases/
 ├── 01-ddl-commands.sql
 ├── 02-papiro.sql
 └── ...
-````
+```
 
 Exercises begin in **Lesson 3**, with each file containing the SQL commands and implementations related to its respective activity.
 
 ## Purpose
 
 This repository documents my progress throughout the Databases course and serves as a collection of exercises and practical implementations related to database concepts.
-
-```
-```
