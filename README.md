@@ -4,7 +4,7 @@ Exercises and practical activities developed for the Databases course at Inatel.
 
 ## Contents
 
-This repository contains exercises and practical activities developed throughout the course, starting from **Lesson 3**.
+This repository contains exercises, practical activities, and exams developed throughout the course.
 
 Topics covered include:
 
@@ -18,17 +18,25 @@ Topics covered include:
 
 ## Structure
 
-The exercises are organized according to the practical activities developed throughout the course.
+The files are organized into general course exercises and practical exams:
 
 ```text
 databases/
-├── 01-ddl-commands.sql
-├── 02-papiro.sql
-└── ...
+├── exercises/
+│   ├── ddl-commands.sql
+│   └── papiro.sql
+└── exams/
+    └── exam-tattoo-studio.sql
+
 ```
 
-Exercises begin in **Lesson 3**, with each file containing the SQL commands and implementations related to its respective activity.
+* **`exercises/`**: Class activities and regular practice files.
+* **`exams/`**: Practical evaluations and exam resolutions.
 
 ## Purpose
 
 This repository documents my progress throughout the Databases course and serves as a collection of exercises and practical implementations related to database concepts.
+
+```
+
+```
