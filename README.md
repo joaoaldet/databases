@@ -23,8 +23,8 @@ The repository is structured into regular coursework and formal assessments:
 ```text
 databases/
 ├── coursework/
-│   ├── ddl-commands.sql
-│   └── papiro.sql
+│   ├── 01-ddl-commands.sql
+│   └── 02-papiro.sql
 └── assessments/
     └── exam-tattoo-studio.sql
 
