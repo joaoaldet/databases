@@ -1,6 +1,6 @@
 # Databases
 
-Exercises and practical activities developed for the Databases course at Inatel.
+Exercises and practical activities developed for the Databases course.
 
 ## Contents
 
@@ -36,5 +36,3 @@ databases/
 ## Purpose
 
 This repository documents my progress throughout the Databases course and serves as a collection of exercises and practical implementations related to database concepts.
-
-```
