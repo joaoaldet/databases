@@ -1,10 +1,10 @@
 # Databases
 
-Exercises and practical activities developed for the Databases course.
+Exercises, practical activities, and formal assessments developed for the Databases course.
 
 ## Contents
 
-This repository contains exercises, practical activities, and exams developed throughout the course.
+This repository contains exercises, practical activities, and formal assessments developed throughout the course.
 
 Topics covered include:
 
@@ -18,21 +18,13 @@ Topics covered include:
 
 ## Structure
 
-The files are organized into general course exercises and practical exams:
+The repository is structured into regular coursework and formal assessments:
 
 ```text
 databases/
-├── exercises/
+├── coursework/
 │   ├── ddl-commands.sql
 │   └── papiro.sql
-└── exams/
-    └── exam-tattoo-studio.sql
-
-```
-
-* **`exercises/`**: Class activities and regular practice files.
-* **`exams/`**: Practical evaluations and exam resolutions.
-
-## Purpose
-
-This repository documents my progress throughout the Databases course and serves as a collection of exercises and practical implementations related to database concepts.
+└── assessments/
+    └── av1/
+        └── exam-tattoo-studio.sql
