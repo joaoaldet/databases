@@ -36,4 +36,3 @@ databases/
 ## Purpose
 
 This repository documents my progress throughout the Databases course and serves as a collection of exercises and practical implementations related to database concepts.
-* **`assessments/exam-tattoo-studio.sql`**
