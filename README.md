@@ -26,5 +26,16 @@ databases/
 │   ├── ddl-commands.sql
 │   └── papiro.sql
 └── assessments/
-    └── av1/
-        └── exam-tattoo-studio.sql
+    └── exam-tattoo-studio.sql
+
+```
+
+* **`coursework/`**: Practical class activities, assignments, and guided scripts.
+* **`assessments/`**: Formal evaluations, practical exams, and assessment resolutions.
+
+## Purpose
+
+This repository documents my progress throughout the Databases course and serves as a collection of exercises and practical implementations related to database concepts.
+* **`assessments/exam-tattoo-studio.sql`**
+
+```
